@@ -400,7 +400,7 @@ function preview(path) {
   if (OFFICE.includes(ext)) {
     toolbar.innerHTML = `<strong>ONLYOFFICE Viewer</strong>`;
     viewer.innerHTML = `
-      <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=${location.origin}/${path}"></iframe>
+      <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=${location.origin}/ndlms.doc/${path}"></iframe>
     `;
     return;
   }
