@@ -1,1 +1,90 @@
-{}
+{
+    "lastModified": "2026-10-28T01:30:49+07:00",
+    "fileCount": 12,
+    "files": [
+        {
+            "id": "00m7y165",
+            "type": "Đề",
+            "displayName": "ÔN TẬP KTGK1 CÔNG NGHỆ 9",
+            "subject": "Công nghệ",
+            "fileName": "HS_ON_TAP_GIUA_KI_1_CONG_NGHE_lop_9.docx"
+        },
+        {
+            "id": "00jz69ip",
+            "type": "Lời giải",
+            "displayName": "ÔN TẬP KTGK1 CÔNG NGHỆ 9",
+            "subject": "Công nghệ",
+            "fileName": "HS_ON_TAP_GIUA_KI_1_CONG_NGHE_lop_9.DAPAN.docx"
+        },
+        {
+            "id": "00b42o93",
+            "type": "Đề",
+            "displayName": "ÔN TẬP KIỂM TRA GIỮA KỲ 1 - PHẦN THỰC HÀNH - MÔN TIN HỌC 9",
+            "subject": "Tin học",
+            "fileName": "ON_TAP_KTGK1_TIN_9_-_LMS_-_26-27.docx"
+        },
+        {
+            "id": "01xjwby9",
+            "type": "Lời giải",
+            "displayName": "ÔN TẬP KIỂM TRA GIỮA KỲ 1 - PHẦN THỰC HÀNH - MÔN TIN HỌC 9",
+            "subject": "Tin học",
+            "fileName": "ON_TAP_KTGK1_TIN_9_-_LMS_-_26-27/ontap.xlsx"
+        },
+        {
+            "id": "00e137zu",
+            "type": "Đề",
+            "displayName": "ÔN TẬP GK I ĐỊA 9 26-27",
+            "subject": "Lịch sử và Địa lí",
+            "fileName": "De_cuong_on_tap_GK1_Dia_li_9.docx"
+        },
+        {
+            "id": "006pe65h",
+            "type": "Đề",
+            "displayName": "TIN HỌC - LINH 26.27",
+            "subject": "Tin học",
+            "fileName": "ON_TAP_KTGK1_TIN_9_-_LMS_-_26-27.pdf"
+        },
+        {
+            "id": "015nygmd",
+            "type": "Lời giải",
+            "displayName": "TIN HỌC - LINH 26.27",
+            "subject": "Tin học",
+            "fileName": "ON_TAP_KTGK1_TIN_9_-_LMS_-_26-27-LINH/ontap.xlsx"
+        },
+        {
+            "id": "00z6uvte",
+            "type": "Đề",
+            "displayName": "ĐỀ CƯƠNG ÔN TẬP GIỮA KÌ 1 SỬ 9 - Cô Tiên",
+            "subject": "Lịch sử và Địa lí",
+            "fileName": "HS_ON_TAP_GK_1_SU_9_(26-27).docx"
+        },
+        {
+            "id": "015qdpha",
+            "type": "Đề",
+            "displayName": "D. HƯƠNG - GDCD 9 ÔN TẬP GIỮA KÌ I",
+            "subject": "GDCD",
+            "fileName": "GDCD_9_DE_CUONG_ON_TAP.docx"
+        },
+        {
+            "id": "0005uzm6",
+            "type": "Lời giải",
+            "displayName": "D. HƯƠNG - GDCD 9 ÔN TẬP GIỮA KÌ I",
+            "subject": "GDCD",
+            "fileName": "GDCD_9_DE_CUONG_ON_TAP.DAPAN.docx"
+        },
+        {
+            "id": "012m6ssj",
+            "type": "Đề",
+            "displayName": "Ôn tập Giữa kỳ 1 - Sinh - 2026 - 2027",
+            "subject": "Sinh học",
+            "fileName": "GK1_-_SINH_9_-_HS.doc.pdf"
+        },
+        {
+            "id": "01ywp8tb",
+            "type": "Đề",
+            "displayName": "REVIEW MID-TERM 1- ENGLISH 9",
+            "subject": "Ngoại ngữ",
+            "fileName": "E9-REVISION_MID-TERM_1-Unit_1,2&3.docx"
+        }
+    ]
+}
