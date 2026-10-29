@@ -1,7 +1,14 @@
 {
-    "lastModified": "2026-10-28T23:22:28+07:00",
-    "fileCount": 13,
+    "lastModified": "2026-10-29T21:46:35+07:00",
+    "fileCount": 14,
     "files": [
+        {
+            "id": "008z1hgf",
+            "type": "Lời giải",
+            "displayName": "ÔN TẬP KIỂM TRA GIỮA KỲ 1 - PHẦN TRẮC NGHIỆM - TIN HỌC 9 - NĂM HỌC 2026 - 2027",
+            "subject": "Tin học",
+            "fileName": "ON_TAP_KIEM_TRA_GIUA_KY_1_-_PHAN_TRAC_NGHIEM_TIN_HOC_9_-_NAM_HOC_2026-2027.docx"
+        },
         {
             "id": "01ywp8tb",
             "type": "Đề",
